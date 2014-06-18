@@ -1,7 +1,7 @@
 hmt-12D
 =======
 
-Team D
+Team D:  CHS office 9
 
 Initial editing assignment: Venetus A, folio 156 recto.
 
