@@ -18,12 +18,101 @@
         <group n="11">
             <text n="msA">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.1" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D1" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτοὶ δὲ πρυλέες συν τευχ <choice>
+                                    <abbr> τευχ></abbr>
+                                    <expan>τευχεσι</expan>
+                                </choice>θωρηχθεντες</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔχει μέν τινα διλογίαν ὁ στίχος ἐπεὶ καὶ σὺν τευχεσι καὶ θωρηχθεντ<choice>
+                                    <abbr>θωρηχθεντ</abbr>
+                                    <expan>θωρηχθεντες</expan>
+                                </choice><del>δὲ</del>ὅμως γοῦν τὸ συν τεύχεσι ἢ τοῖς ἄνω προσδοτέον
+                                ΐν’ ἐλάττων ἡ δίλογιαν γένηται,ἠ τοῖς ἑξῆς. ἵν’ ἡ <q>συν</q>
+                                πρόθεσις κέηται ἀντι της ἔν ὡς ἐκεῖ, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.183</ref>
+                                    <q>τὴν μὲν ἐγὼ συν ηΐ τ’ εμῇ καὶ ἐμοῖς ἑταροῖσιν· βέλτιον δὲ τὸ πρότερον </q>
+                                </cit>
+                            </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D2" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D4" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D5" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D6" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D7" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D8" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
                         </div>
                         <div type="comment">
                             <p></p>
