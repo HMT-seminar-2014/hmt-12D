@@ -24,7 +24,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.77@πρυλέες</p>
                         </div>
                         <div type="comment">
                             <p>πεζοὶ ὁπλίται</p>
@@ -35,7 +35,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.89</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.89@ἅδε</p>
                         </div>
                         <div type="comment">
                             <p>ήρεσκε</p>
@@ -46,7 +46,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:1289</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.89@ἀπήμων</p>
                         </div>
                         <div type="comment">
                             <p>αλυπ<choice>
@@ -60,7 +60,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.86</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.86@ἀρτύναντες</p>
                         </div>
                         <div type="comment">
                             <p>παρασκευάσαντες τάξαντες</p>
@@ -71,7 +71,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.87</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.87@πένταχα</p>
                         </div>
                         <div type="comment">
                             <p>εἰς <num value="5" >ε</num> τάξεις</p>
@@ -82,7 +82,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.93</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.93@Πάρις</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers129">Αλέξανδρος</persName></p>
@@ -93,7 +93,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:97</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.97@αἴθωνες</p>
                         </div>
                         <div type="comment">
                             <p>διάπυροι οξεῖς </p>
