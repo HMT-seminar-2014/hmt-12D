@@ -4,18 +4,20 @@ _________
 
 #1. Book 12, line 93
 
+!{Line 93}[1]
+
 [1]: urn:cite:hmt:vaimg.VA156RN-0327@0.1662,0.4102,0.4665,0.1826
 
-Note the catalogue of the Trojan heroes, introduces five heroes. Tie in to the catalogue theme.
 
-a. Bring up Paris. The scholia above references Paris as a leader: 
+{This scholion}[2] references Paris and is what our scholion of interest comments on.
+
 [2]: urn:cite:hmt:vaimg.VA156RN-0327@0.6256,0.4696,0.1652,0.0451
 
 _________
 
 #2. Why is this scholion here? What is its function?#
 
-There may be a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their infromation, but made editorial decisions when they wrote their scholia. This provides a glimpse into the role the scribe plays when composing of scholia. 
+There may be a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. This provides a glimpse into the role the scribe plays when composing of scholia. 
 
 _________
 
@@ -57,7 +59,6 @@ VB: Has !{αλεξω - ἠλέξησεν}[8]
 
 [8]: urn:cite:hmt:vbimg.VB161RN-0605@0.7387,0.4298,0.045,0.015
 
-"estin" clauses give suggest that the scribes may not have been too familiar with this verb--thus the omission of the scribe of A and lack of true etymology.
 
 _________
 
@@ -82,6 +83,6 @@ _________
 
 [10]: urn:cite:hmt:vaimg.VA156RN-0327@0.1712,0.5988,0.1011,0.024
 
-- Catalog poetry
+- Catalogue poetry
 - Intellectual tradition of tracing the etymology of names
 
