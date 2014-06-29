@@ -42,7 +42,8 @@ _________
 
 VA: Has εξελεεω - ἠξηλέησεν [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
-VB: Has αλεξω - ἠλέξησεν [8][] "estin" clauses give suggest that the scribes may not have been too familiar with this verb--thus the omission of the scribe of A and lack of true etymology.
+VB: Has αλεξω - ἠλέξησεν [8][urn:cite:hmt:vbimg.VB161RN-0605@0.7387,0.4298,0.045,0.015] 
+"estin" clauses give suggest that the scribes may not have been too familiar with this verb--thus the omission of the scribe of A and lack of true etymology.
 
 _________
 
