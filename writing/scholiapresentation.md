@@ -34,14 +34,13 @@ _________
 
 VA:[5][]
 
-!{VB}[6] 
-[6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6056,0.3516,0.2072,0.0706
+{VB}[6] [6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6056,0.3516,0.2072,0.0706
 
 _________
 
 #3. The difference (mistake) in verb.#
 
-VA: Has εξελεεω - ἠξηλέησεν [7][]
+VA: Has εξελεεω - ἠξηλέησεν [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
 VB: Has αλεξω - ἠλέξησεν [8][] "estin" clauses give suggest that the scribes may not have been too familiar with this verb--thus the omission of the scribe of A and lack of true etymology.
 
