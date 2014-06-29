@@ -68,5 +68,5 @@ _________
 interlinear gloss:  urn:cite:hmt:vaimg.VA156RN-0327@0.1712,0.5988,0.1011,0.024
 
 -Catalog poetry
--Intellectual tradition of doing the etymology of names
+-Intellectual tradition of tracing the etymology of names
 
