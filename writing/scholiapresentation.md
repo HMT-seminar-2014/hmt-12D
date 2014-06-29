@@ -62,4 +62,9 @@ Content Differences:
 
 _________
 
-5. Ultimately, a series of questions:
+#5. Some things to consider
+
+-Fire imagry in Iliad 12
+-Catalog poetry
+-Intellectual tradition of doing the etymology of names
+
