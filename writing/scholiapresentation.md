@@ -39,7 +39,7 @@ VA:[5][] urn:cite:hmt:vaimg.VA156RN-0327@0.6206,0.544,0.1602,0.0556
 
 _________
 
-#3. The difference (mistake) in the verb of etymological derivation.#
+#3. The differences in the verb of etymological derivation.#
 
 VA: Has εξελεεω - ἠξηλέησεν [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
@@ -64,9 +64,9 @@ _________
 
 #5. Some things to consider
 
--Fire imagry in Iliad 12
+- Fire imagry in Iliad 12
 interlinear gloss:  urn:cite:hmt:vaimg.VA156RN-0327@0.1712,0.5988,0.1011,0.024
 
--Catalog poetry
--Intellectual tradition of tracing the etymology of names
+- Catalog poetry
+- Intellectual tradition of tracing the etymology of names
 
