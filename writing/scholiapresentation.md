@@ -32,9 +32,10 @@ _________
 
 #2. VB has different punctuation that appears to be an edit or addition.#
 
-VA:[5][]
+VA:[5][] urn:cite:hmt:vaimg.VA156RN-0327@0.6206,0.544,0.1602,0.0556
 
-{VB}[6] [6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6056,0.3516,0.2072,0.0706
+!{VB}[6] 
+[6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6096,0.3659,0.1942,0.0346
 
 _________
 
