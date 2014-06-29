@@ -1,12 +1,12 @@
-#Title#
+#Etymological Scholia in book 12 of Ven A and Ven B#
 
 _________
 
 #1. Intro: 
 
-CITE:[1][urn:cite:hmt:vaimg.VA156RN-0327@0.1662,0.4102,0.4665,0.1826]
+[1][urn:cite:hmt:vaimg.VA156RN-0327@0.1662,0.4102,0.4665,0.1826]
 
-Note the catalogue of the Trojan heroes, introduce five heroes: Hector, Paris, Sarpedon, Aeneas, ?. Tie in to the catalogue theme.
+Note the catalogue of the Trojan heroes, introduces five heroes. Tie in to the catalogue theme.
 
 a. Bring up Paris. The scholia above references Paris as a leader: CITE: [2][urn:cite:hmt:vaimg.VA156RN-0327@0.6256,0.4696,0.1652,0.0451]
 
@@ -14,11 +14,11 @@ _________
 
 #2. Why is this scholion here? What is its function?#
 
-Thesis: there is a master copy. Scribe A (Venetus A) and B (Venetus B) use similar source but make editorial decisions. What are differences? This should provide a glimpse of the role the scribe plays in interpretation. 
+There may be a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their infromation, but made editorial decisions when they wrote their scholia. This provides a glimpse into the role the scribe plays when composing of scholia. 
 
 _________
 
-#Differences:#
+#Differences#
 
 _________
 
