@@ -2,7 +2,7 @@
 
 _________
 
-#1. Intro: Lines, translate.#
+#1. Intro: 
 
 CITE:[1][urn:cite:hmt:vaimg.VA156RN-0327@0.1662,0.4102,0.4665,0.1826]
 
@@ -12,7 +12,7 @@ a. Bring up Paris. The scholia above references Paris as a leader: CITE: [2][urn
 
 _________
 
-#2. Question: Why is this scholion here? What is its function?#
+#2. Why is this scholion here? What is its function?#
 
 Thesis: there is a master copy. Scribe A (Venetus A) and B (Venetus B) use similar source but make editorial decisions. What are differences? This should provide a glimpse of the role the scribe plays in interpretation. 
 
@@ -22,7 +22,7 @@ _________
 
 _________
 
-#1. Lemma#
+#1. The Lemma#
 
 VA:[3][urn:cite:hmt:vaimg.VA156RN-0327@0.6226,0.5154,0.1502,0.012]
 
@@ -39,7 +39,7 @@ VA:[5][] urn:cite:hmt:vaimg.VA156RN-0327@0.6206,0.544,0.1602,0.0556
 
 _________
 
-#3. The difference (mistake) in verb.#
+#3. The difference (mistake) in the verb of etymological derivation.#
 
 VA: Has εξελεεω - ἠξηλέησεν [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
@@ -65,6 +65,8 @@ _________
 #5. Some things to consider
 
 -Fire imagry in Iliad 12
+interlinear gloss:  urn:cite:hmt:vaimg.VA156RN-0327@0.1712,0.5988,0.1011,0.024
+
 -Catalog poetry
 -Intellectual tradition of doing the etymology of names
 
