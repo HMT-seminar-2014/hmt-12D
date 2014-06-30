@@ -1,4 +1,4 @@
-#Etymological Scholia in book 12 of Ven A and Ven B#
+#Some Remarks on the Etymological Scholion on 156r of Ven A#
 
 _________
 
@@ -15,9 +15,9 @@ _________
 
 _________
 
-#2. Why is this scholion here? What is its function?#
+#2. Scribal Variance#
 
-There may be a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. This provides a glimpse into the role the scribe plays when composing of scholia. 
+There is a common source--scholia D--from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual variants between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
 
 _________
 
@@ -25,7 +25,7 @@ _________
 
 _________
 
-#1. The Lemma#
+#Variant 1: The Lemma#
 
 !{VA:}[3]
 
@@ -37,7 +37,7 @@ _________
 
 _________
 
-#2. VB has different punctuation that appears to be an edit or addition.#
+#Variant 2: Punctuation and Interpolation#
 
 !{VA:}[5]
 
@@ -49,7 +49,7 @@ _________
 
 _________
 
-#3. The differences in the verb of etymological derivation.#
+#Variant 3: Verb of Etymological Derivation.#
 
 VA: Has !{εξελεεω - ἠξηλέησεν}[7] 
 
@@ -62,7 +62,7 @@ VB: Has !{αλεξω - ἠλέξησεν}[8]
 
 _________
 
-#4. Scholion also on the birth of Paris at 3.325:#
+#Other Scholion Varaint telling the birth of Paris at 3.325:#
 
 [9]: urn:cite:hmt:vaimg.VA048RN-0049@0.1171,0.7724,0.6236,0.0872
 
@@ -76,7 +76,7 @@ _________
 
 _________
 
-#5. Some things to consider
+#Some things to consider
 
 - Fire imagery in Iliad 12
 !{interlinear gloss:}[10]  
