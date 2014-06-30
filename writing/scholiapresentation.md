@@ -9,10 +9,6 @@
 [1]: urn:cite:hmt:vaimg.VA156RN-0327@0.1532,0.5259,0.4765,0.0323
 
 
-{This scholion}[2] references Paris and is what our scholion of interest comments on.
-
-[2]: urn:cite:hmt:vaimg.VA156RN-0327@0.6256,0.4696,0.1652,0.0451
-
 ---
 #Scholia#
 
@@ -20,34 +16,18 @@
 
 [11]:urn:cite:hmt:vaimg.VA156RN-0327@0.6156,0.5147,0.1642,0.163
 
-!{VB}[12]
+Παρις κατα γαστρὸς ἔχουσα ἡ Ἐκάβη ὄναρ ἐθεάσατο. ὅτι ἔτεκεν δαλὸν ὑφ οὗ πᾶσα κατεφλέχθη ἡ πόλις· τὸ οὖν τεχθὲν οὐ γνώμη τῶν μάντεων ἐξετέθη ἀλλα γνώμη θεῶν ὑπο τοῦ εὑρόντος ἐτράφη βουκόλου. ὃς ἄρκτον αὐτῷ γάλα ἐπισχοῦσαν θεασάμενος ἀνέθρεψεν. ἐκλήθη οὖν Πάρις οὐχ ὥς τινες φασὶν ἐν πήρᾳ ἐτράφη ἀλλ ὅτι τὸν μόρον παρῆλθεν. ὕστερον δὲ Αλέξανδρος. ὅτι τῇ πατρίδι ἠξηλέησεν ὅ ἐστιν ἐβοήθησε πολεμίων ἐπελθόντων.
 
-[12]:urn:cite:hmt:vbimg.VB161RN-0605@0.6046,0.3418,0.2162,0.118
----
-
-#Scribal Variance#
-
-There is a common source--scholia D--from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual variants between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
 
 ---
 
-#Differences#
+#Scribal Differences#
+
+There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual Examples between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
 
 ---
 
-#Variant 1: The Lemma#
-
-!{VA:}[3]
-
-[3]:urn:cite:hmt:vaimg.VA156RN-0327@0.6226,0.5154,0.1502,0.012
-
-!{VB:}[4]
-
-[4]:urn:cite:hmt:vbimg.VB161RN-0605@0.5826,0.3456,0.2302,0.0165
-
----
-
-#Variant 2: Punctuation and Interpolation#
+#Example 1: Punctuation and Interpolation#
 
 !{VA:}[5]
 
@@ -59,7 +39,7 @@ There is a common source--scholia D--from which Scribe A (Venetus A) and Scribe 
 
 ---
 
-#Variant 3: Verb of Etymological Derivation.#
+#Example 2: Verb of Etymological Derivation.#
 
 VA: Has !{εξελεεω - ἠξηλέησεν}[7] 
 
@@ -72,7 +52,7 @@ VB: Has !{αλεξω - ἠλέξησεν}[8]
 
 ---
 
-#Other Scholion Varaint telling the birth of Paris at 3.325:#
+#Other Scholion telling the birth of Paris at 3.325:#
 
 [9]: urn:cite:hmt:vaimg.VA048RN-0049@0.1171,0.7724,0.6236,0.0872
 
