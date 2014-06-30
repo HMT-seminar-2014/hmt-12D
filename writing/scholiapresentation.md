@@ -6,7 +6,7 @@
 
 !{Line 93}[1]
 
-[1]: urn:cite:hmt:vaimg.VA156RN-0327@0.1662,0.4102,0.4665,0.1826
+[1]: urn:cite:hmt:vaimg.VA156RN-0327@0.1532,0.5259,0.4765,0.0323
 
 
 {This scholion}[2] references Paris and is what our scholion of interest comments on.
