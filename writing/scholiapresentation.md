@@ -2,7 +2,7 @@
 
 _________
 
-#1. Book 12, line 93
+#Book 12, line 93
 
 !{Line 93}[1]
 
@@ -14,8 +14,18 @@ _________
 [2]: urn:cite:hmt:vaimg.VA156RN-0327@0.6256,0.4696,0.1652,0.0451
 
 _________
+#Scholia#
 
-#2. Scribal Variance#
+!{VA}[11]
+
+[11]:urn:cite:hmt:vaimg.VA156RN-0327@0.6156,0.5147,0.1642,0.163
+
+!{VB}[12]
+
+[12]:urn:cite:hmt:vbimg.VB161RN-0605@0.6046,0.3418,0.2162,0.118
+_________
+
+#Scribal Variance#
 
 There is a common source--scholia D--from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual variants between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
 
