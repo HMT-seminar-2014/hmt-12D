@@ -1,6 +1,6 @@
 #Some Remarks on the Etymological Scholion on 156r of Ven A#
 
-_________
+---
 
 #Book 12, line 93
 
@@ -13,7 +13,7 @@ _________
 
 [2]: urn:cite:hmt:vaimg.VA156RN-0327@0.6256,0.4696,0.1652,0.0451
 
-_________
+---
 #Scholia#
 
 !{VA}[11]
@@ -23,17 +23,17 @@ _________
 !{VB}[12]
 
 [12]:urn:cite:hmt:vbimg.VB161RN-0605@0.6046,0.3418,0.2162,0.118
-_________
+---
 
 #Scribal Variance#
 
 There is a common source--scholia D--from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual variants between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
 
-_________
+---
 
 #Differences#
 
-_________
+---
 
 #Variant 1: The Lemma#
 
@@ -45,7 +45,7 @@ _________
 
 [4]:urn:cite:hmt:vbimg.VB161RN-0605@0.5826,0.3456,0.2302,0.0165
 
-_________
+---
 
 #Variant 2: Punctuation and Interpolation#
 
@@ -57,7 +57,7 @@ _________
 
 [6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6096,0.3659,0.1942,0.0346
 
-_________
+---
 
 #Variant 3: Verb of Etymological Derivation.#
 
@@ -70,7 +70,7 @@ VB: Has !{αλεξω - ἠλέξησεν}[8]
 [8]: urn:cite:hmt:vbimg.VB161RN-0605@0.7387,0.4298,0.045,0.015
 
 
-_________
+---
 
 #Other Scholion Varaint telling the birth of Paris at 3.325:#
 
@@ -84,7 +84,7 @@ _________
 - explicitly says that the seers wanted him killed by throwing him to wild beasts
 - Names the shepherd who raises Paris as Archialas and cites Porphurios as the source.
 
-_________
+---
 
 #Some things to consider
 
