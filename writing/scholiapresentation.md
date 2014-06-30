@@ -41,11 +41,11 @@ There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B
 
 #Example 2: Verb of Etymological Derivation.#
 
-VA: Has !{εξελεεω - ἠξηλέησεν}[7] 
+VA: Has (ἐξ)ελεέω !{ἠξηλέησεν}[7] 
 
 [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
-VB: Has !{αλεξω - ἠλέξησεν}[8]
+VB: Has ἀλέξω !{ἠλέξησεν}[8]
 
 [8]: urn:cite:hmt:vbimg.VB161RN-0605@0.7387,0.4298,0.045,0.015
 
@@ -56,22 +56,17 @@ VB: Has !{αλεξω - ἠλέξησεν}[8]
 
 [9]: urn:cite:hmt:vaimg.VA048RN-0049@0.1171,0.7724,0.6236,0.0872
 
-!{Content Differences:}[9]
+{Scholion on 3.325}[9] differences:
 
-- myth only, no etymology
-- clarifies that he is both Paris and Alexander
-- expands Hecuba's dream to say that the firebrand will also burn down the forest on Mt. Ida.
-- explicitly says that the seers wanted him killed by throwing him to wild beasts
+- Myth only, no etymology
+- Clarifies that he is both Paris and Alexander
+- Expands Hecuba's dream to say that the firebrand will also burn down the forest on Mt. Ida.
+- Explicitly says that the seers wanted him killed by throwing him to wild beasts
 - Names the shepherd who raises Paris as Archialas and cites Porphurios as the source.
 
 ---
 
 #Some things to consider
-
-- Fire imagery in Iliad 12
-!{interlinear gloss:}[10]  
-
-[10]: urn:cite:hmt:vaimg.VA156RN-0327@0.1712,0.5988,0.1011,0.024
 
 - Catalogue poetry
 - Intellectual tradition of tracing the etymology of names
