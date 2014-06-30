@@ -1,4 +1,4 @@
-#Some Remarks on the Etymological Scholion on 156r of Ven A#
+#An Etymological Scholion#
 
 ---
 
@@ -10,7 +10,7 @@
 
 
 ---
-#Scholia#
+#Scholion#
 
 !{VA}[11]
 
@@ -23,17 +23,21 @@
 
 #Scribal Differences#
 
-There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining the textual examples between the two manuscripts we can gain insight into the role the scribe played when composing scholia. 
+- There is a common source from which the scholia of Venetus A and Venetus B are derived.
 
 ---
 
 #Example 1: Punctuation and Interpolation#
 
-!{VA:}[5]
+{VA:}[5]
+
+τὸ οὖν τεχθὲν οὐ γνώμη τῶν μάντεων ἐξετέθη ἀλλα γνώμη θεῶν ὑπο τοῦ εὑρόντος ἐτράφη βουκόλου.
 
 [5]: urn:cite:hmt:vaimg.VA156RN-0327@0.6206,0.544,0.1602,0.0556
 
-!{VB}[6] 
+{VB:}[6] 
+
+τὸ οὗν τεχθὲν, οὐ γνώμῃ τῶν μάντεῶν ἐξετέθη ἀλλὰ γνώμῃ θεῶν· ὃ ὐπὸ τοῦ εὐρόντος ἐτράφη βουκόλου.
 
 [6]:urn:cite:hmt:vbimg.VB161RN-0605@0.6096,0.3659,0.1942,0.0346
 
@@ -41,11 +45,13 @@ There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B
 
 #Example 2: Verb of Etymological Derivation.#
 
-VA: Has (ἐξ)ελεέω !{ἠξηλέησεν}[7] 
+VA: ὅτι τῇ πατρίδι ἠξηλέησεν ὅ ἐστιν ἐβοήθησε πολεμίων ἐπελθόντων.
+
+!{ἠξηλέησεν}[7]
 
 [7]:urn:cite:hmt:vaimg.VA156RN-0327@0.6577,0.6529,0.0511,0.0143
 
-VB: Has ἀλέξω !{ἠλέξησεν}[8]
+VB: !{ἠλέξησεν}[8]
 
 [8]: urn:cite:hmt:vbimg.VB161RN-0605@0.7387,0.4298,0.045,0.015
 
