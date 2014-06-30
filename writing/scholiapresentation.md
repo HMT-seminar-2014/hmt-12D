@@ -23,7 +23,7 @@
 
 #Scribal Differences#
 
-There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining textual Examples between the two manuscripts we can glimpse into the role the scribe plays when composing scholia. 
+There is a common source from which Scribe A (Venetus A) and Scribe B (Venetus B) derived their information, but made editorial decisions when they wrote their scholia. By examining the textual examples between the two manuscripts we can gain insight into the role the scribe played when composing scholia. 
 
 ---
 
