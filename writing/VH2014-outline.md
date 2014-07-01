@@ -21,7 +21,14 @@
 
 ## The "revising hand" ##
 
-(Team D)
+###Brief Summary of the Revising Hand (C)###
+
+- Plays the part of the normal and usual reviser.
+- Hand is small, stiff, and has greater ornamentation.
+- His ink is generally brighter.
+- His hand is coeval (contemporary) with the others.
+- May have been older in age because of his reviser position and the combined stiffness and formality of his writing.
+	- "*Older* than the text-hand it can hardly be said that his hand proves him to have been, but his function as corrector would make it natural, and the singular stiffness and formality (though elegant) of the strokes corroborates the possibility" (Allen, 175).
 
 
 ## A "curious phenomenon":  double corrections ##
